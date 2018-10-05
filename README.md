@@ -1,3 +1,4 @@
+<pre>
 # squat
 #python3 use pygame
 
@@ -12,3 +13,4 @@ $python3 sq.py
 pygameを使っているので入っていない場合はインストールが必要です。
 $ sudo apt install python3-pip
 $ pip3 install pygame
+</pre>
